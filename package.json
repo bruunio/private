@@ -1,0 +1,34 @@
+{
+  "name": "private",
+  "version": "1.0.0",
+  "description": "Thomas og hans mor",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^1.3.7",
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "1.0.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.1.0",
+    "gulp-util": "^3.0.7",
+    "vinyl-ftp": "^0.4.5"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruunio/private.git"
+  },
+  "keywords": [
+    "thomas"
+  ],
+  "author": "Thomas Bruun Hørmergris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bruunio/private/issues"
+  },
+  "homepage": "https://github.com/bruunio/private#readme"
+}
